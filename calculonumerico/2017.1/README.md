@@ -13,6 +13,14 @@ Turmas: TZ
 
 Atualizações importantes!
 -------------------------
+* Prova neste sábado (08/Abr de 12:00 às 14:00)
+  Local:
+  - Turma TZ: Sala 1019
+* Abr 04: Lista de fórmulas a ser distribuída na prova [Formulario]
+* Mar 22: Notas podem ser visualizadas nesse link [Notas]
+* Mar 22: Slides de divulgação da maratona de programação [Maratona]
+* Mar 22: Corrigido gabarito do Quizz 01
+* Mar 20: Criado Google Group https://groups.google.com/d/forum/cn-2017-1. Por favor entre no grupo.
 * Mar 10: Correção na descrição do método de Newton nos slides [00-Intro]. A fórmula correta é
 
  x_{n+1} = x_n - f(x_n)/f'(x_n).
@@ -25,16 +33,16 @@ Aulas
 |Aula  |  Dia     | Sistemas lineares                                            | Link Slides |
 |------|----------|--------------------------------------------------------------|-------------|
 |1-2   |  09 Mar  | Introdução.                                                  |[00-Intro], [01-Pseudo], [02-SL]|
-|3-4   |  14 Mar  | Conceitos fundamentais.                                      |             |
+|3-4   |  14 Mar  | Conceitos fundamentais.                                      |[02-AL], [02-SL] |
 |      |  16 Mar  | Não haverá aula (atividades acadêmicas complementares)       |             |
-|5-6   |  21 Mar  | Sistemas triangulares.                                       |             |
-|7-8   |  23 Mar  | Eliminação de Gauss.                                         |             |
-|9-10  |  28 Mar  | Decomposição LU.                                             |             |
-|11-12 |  30 Mar  | Decomposição LU.                                             |             |
-|13-14 |  04 Abr  | Decomposição de Cholesky.                                    |             |
-|15-16 |  06 Abr  | Uso da decomposição.                                         |             |
-|17-18 |  08 Abr  | Prova 1. (Sábado às 10h00)                                   |             |
-|19-20 |  11 Abr  | Análise de erro na solução de sistemas.                      |             |
+|5-6   |  21 Mar  | Representação numérica                                       |[Quizz01], [03-SN], [Erros]|
+|7-8   |  23 Mar  | Erros, Sistemas triangulares, Eliminação de Gauss.           |[Quizz02], [03-SN], [02-SL]      |
+|9-10  |  28 Mar  | Eliminação de Gauss, Decomposição LU.                        |[Quizz03], [02-SL], [Aula05] |
+|11-12 |  30 Mar  | Decomposição LU, Decomposição de Cholesky.                   |[Quizz04], [02-SL], [Aula06] |
+|13-14 |  04 Abr  | Uso da decomposição.                                         |[Quizz05], [02-SL], [Aula07] |
+|15-16 |  06 Abr  | Análise de erro na solução de sistemas.                      |             |
+|17-18 |  08 Abr  | Prova 1. (Sábado às 8:00)                                    |             |
+|19-20 |  11 Abr  | ???                                                          |             |
 
 |Aula  |  Dia     | Interpolação polinomial                                      | Link Slides |
 |------|----------|--------------------------------------------------------------|-------------|
@@ -44,7 +52,7 @@ Aulas
 |25-26 |  27 Abr  | Polinômios de Gregory-Newton.                                |             |
 |27-28 |  02 Mai  | Escolha de pontos.                                           |             |
 |29-30 |  04 Mai  | Erro de truncamento.                                         |             |
-|31-32 |  06 Mai  | Prova 2. (Sábado às 10h00)                                   |             |
+|31-32 |  06 Mai  | Prova 2. (Sábado às 08:00)                                   |             |
 
 |Aula  |  Dia     | Ajuste de curvas                                             | Link Slides |
 |------|----------|--------------------------------------------------------------|-------------|
@@ -62,7 +70,7 @@ Aulas
 |Aula  |  Dia     | Raízes de equações                                           | Link Slides |
 |------|----------|--------------------------------------------------------------|-------------|
 |47-48 |  01 Jun  | Isolamento de raízes e Método da bisseção.                   |             |
-|49-50 |  03 Jun  | Prova 3. (Sábado às 10:00)                                   |             |
+|49-50 |  03 Jun  | Prova 3. (Sábado às 08:00)                                   |             |
 |51-52 |  06 Jun  | Métodos baseados em tangente: Newton                         |             |
 |53-54 |  08 Jun  | Otimização de funções com uma variável                       |             |
 |55-56 |  20 Jun  | Caso multivariado                                            |             |
@@ -71,8 +79,46 @@ Aulas
 |61-62 |  29 Jun  | Prova 4. (Quinta)                                            |             |
 
 
+Exercícios do Prof. Renato Assunção
+-----------------------------------
+ * [Lista 1] [Gabarito 1]
+ * [Lista 2]
+ * [Lista 3] [Gabarito 3]
+ * [Lista 4]
+ * [Lista 5]
+ * [Lista 6]
+ * [Lista 7]
+ * [Lista 8]
+ * [Lista 9]
+
+[Lista 1]: http://homepages.dcc.ufmg.br/~assuncao/an/Lista01.pdf
+[Gabarito 1]: http://homepages.dcc.ufmg.br/~assuncao/an/gabarito_lista_01.pdf
+[Lista 2]: http://homepages.dcc.ufmg.br/~assuncao/an/Lista02.pdf
+[Lista 3]: http://homepages.dcc.ufmg.br/~assuncao/an/Lista03.pdf
+[Gabarito 3]: http://homepages.dcc.ufmg.br/~assuncao/an/gabarito_lista_03.pdf
+[Lista 4]: http://homepages.dcc.ufmg.br/~assuncao/an/Lista04.pdf
+[Lista 5]: http://homepages.dcc.ufmg.br/~assuncao/an/Lista05.pdf
+[Lista 6]: http://homepages.dcc.ufmg.br/~assuncao/an/Exerc06.pdf
+[Lista 7]: http://homepages.dcc.ufmg.br/~assuncao/an/Lista07.pdf
+[Lista 8]: http://homepages.dcc.ufmg.br/~assuncao/an/Lista08.pdf
+[Lista 9]: http://homepages.dcc.ufmg.br/~assuncao/an/Lista09.pdf
 
 
 [00-Intro]: ../../ancn_slides/00tz-Intro.pdf
 [01-Pseudo]: ../../ancn_slides/01-Conceitos.pdf
 [02-SL]: ../../ancn_slides/02-SistemasLineares.pdf
+[02-AL]: ../../ancn_slides/A02-RevisaoAL.pdf
+[03-SN]: ../../ancn_slides/A03-SistemasNumericos.pdf
+[04-SL]: ../../ancn_slides/A04-SistemasLineares.pdf
+[Aula05]: ../../ancn_slides/A05-DecomposicaoLU.pdf
+[Aula06]: ../../ancn_slides/A06-Cholesky.pdf
+[Aula07]: ../../ancn_slides/A07-UsoDecomposicao.pdf
+[Erros]: ../../ancn_slides/03-PontoFlutuanteErros.pdf
+[Quizz01]: ../../ancn_slides/quizz01.pdf
+[Quizz02]: ../../ancn_slides/gabarito02.pdf
+[Quizz03]: ../../ancn_slides/gabarito03.pdf
+[Quizz04]: ../../ancn_slides/gabarito04.pdf
+[Quizz05]: ../../ancn_slides/gabarito05.pdf
+[Maratona]: ../../ancn_slides/divulgacao-maratona.pdf
+[Notas]: https://drive.google.com/open?id=0B_VgRZWkTtUlZGNISHpNYzJIYlU
+[Formulario]: http://homepages.dcc.ufmg.br/~lcerf/slides/formulario.pdf
